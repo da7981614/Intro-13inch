@@ -1,0 +1,4 @@
+#Thu Aug 31 18:01:32 CST 2017
+base.0=C\:\\Users\\Xiang\\Desktop\\Intro - 13inch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Xiang\\Desktop\\Intro - 13inch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

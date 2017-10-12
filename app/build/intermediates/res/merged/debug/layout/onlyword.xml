@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    >
+
+    <TextView
+        android:id="@+id/s1txv"
+        android:layout_width="match_parent"
+        android:layout_height="550dp"
+        android:gravity="center"
+
+        android:textSize="54sp" />
+
+    <LinearLayout
+        android:id="@+id/slideOneNext"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:id="@+id/onlyWordBack"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            android:background="#ffffff"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/ownumber"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.6"
+            android:gravity="center"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/onlyWordNext"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            android:background="#ffffff"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="com.example.xiang.intro.PdfSlide"
+    android:orientation="vertical"
+    >
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView"
+        android:layout_width="match_parent"
+        android:layout_height="550dp"
+        android:layout_gravity="center" />
+            <LinearLayout
+                android:id="@+id/slideOneNext"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:orientation="horizontal">
+                <Button
+                    android:id="@+id/pdfSlideBack"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.2"
+                    android:background="#ffffff"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:id="@+id/psnumber"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.6"
+                    android:gravity="center"
+                    android:textSize="40sp"/>
+
+                <Button
+                    android:id="@+id/pdfSlideNext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.2"
+                    android:background="#ffffff"
+                    android:textSize="30sp" />
+        </LinearLayout>
+</LinearLayout>

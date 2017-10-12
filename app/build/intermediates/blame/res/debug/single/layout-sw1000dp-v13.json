@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw1000dp-v13\\lastpage.xml",
+        "source": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\src\\main\\res\\layout-sw1000dp\\lastpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw1000dp-v13\\videoslide.xml",
+        "source": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\src\\main\\res\\layout-sw1000dp\\videoslide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw1000dp-v13\\videoview.xml",
+        "source": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\src\\main\\res\\layout-sw1000dp\\videoview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw1000dp-v13\\firstpage.xml",
+        "source": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\src\\main\\res\\layout-sw1000dp\\firstpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw1000dp-v13\\onlyword.xml",
+        "source": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\src\\main\\res\\layout-sw1000dp\\onlyword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw1000dp-v13\\imgslide.xml",
+        "source": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\src\\main\\res\\layout-sw1000dp\\imgslide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw1000dp-v13\\pdfslide.xml",
+        "source": "C:\\Users\\Xiang\\Desktop\\Intro\\app\\src\\main\\res\\layout-sw1000dp\\pdfslide.xml"
+    }
+]
